@@ -56,9 +56,9 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 </p>
 
 <h2 align="left">Stats</h2>
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulPatelDev&show_icons=true&locale=en&theme=" alt="RahulPatelDev" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulPatelDev&theme=" alt="RahulPatelDev" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPatelDev&layout=pie" alt="rahulpateldev" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rspatel031&show_icons=true&locale=en&theme=" alt="rspatel031" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rspatel031&theme=" alt="rspatel031" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rspatel031&layout=pie" alt="rspatel031" /></p>
 
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/rspatel031"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rspatel031" /></a></p><br>
