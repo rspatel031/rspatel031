@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">
 Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>
-
 </h1>
 <h3 align="center">An enthusiastic developer skilled in Java from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulPatelDev&abbreviated=true&style=for-the-badge&color=orange" alt="RahulPatelDev" /> </p>
@@ -12,21 +11,18 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🌱 I’m currently learning **K8s, latest Spring Boot and Spring Cloud Features**
-
 - 💬 Ask me about **Spring Boot | Spring Cloud | SQL | AWS | Hibernate | Spring Security | PyTest | Python Automation**
-
 - 📫 How to reach me **rspatel031@gmail.com**
-
 - 📝 I regularly write articles on [@rspatel031](@rspatel031)
-
 - ⚡ Fun fact **I think I can code!**
 
 </div><h2 align="left">Connect with Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rspate031/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rspatel031" height="30" width="40" /></a>
+<a href="https://dev.to/rspatel031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rspatel031" height="30" width="40" /></a>
+<a href="https://medium.com/@rspatel031" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@rspatel031" height="30" width="40" /></a>
 <a href="https://www.instagram.com/libra.rahul.31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="libra.rahul.31" height="30" width="40" /></a>
-<a href="https://medium.com/@rspatel031" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@rspatel031" height="30" width="40" /></a></p>
-
+</p>
 </div><h2 align="left">Latest Blogs Posts</h2>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
@@ -61,9 +57,7 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 
 <h2 align="left">Stats</h2>
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulPatelDev&show_icons=true&locale=en&theme=" alt="RahulPatelDev" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulPatelDev&theme=" alt="RahulPatelDev" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPatelDev&layout=pie" alt="rahulpateldev" /></p>
 
 <h2 align="left">Support</h2>
