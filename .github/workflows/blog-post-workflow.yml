@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@rspatel031"
+          template: "$newline - [$title]($url)"

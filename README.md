@@ -29,8 +29,7 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 
 </div><h2 align="left">Latest Blogs Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-- [Handling Large Requests with aiohttp and asyncio in Python](https://medium.com/@rspatel031/handling-large-requests-with-aiohttp-and-asyncio-in-python-d603b2de5c69?source=rss-22060122933f------2)
-- [How to configure Programmable USB Hub?](https://medium.com/@rspatel031/how-to-configure-programmable-usb-hub-63688ae20b84?source=rss-22060122933f------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools</h2>
