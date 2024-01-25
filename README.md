@@ -6,7 +6,7 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 
 </h1>
 <h3 align="center">An enthusiastic developer skilled in Java from India 🇮🇳</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulPatelDev&label=Profile%20views&color=0e75b6&style=flat" alt="RahulPatelDev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulPatelDev&abbreviated=true&style=for-the-badge&color=orange" alt="RahulPatelDev" /> </p>
 
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
@@ -62,7 +62,7 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulPatelDev&theme=" alt="RahulPatelDev" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulpateldev&show_icons=true&locale=en&layout=compact" alt="rahulpateldev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPatelDev&layout=pie" alt="rahulpateldev" /></p>
 
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/rspatel031"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rspatel031" /></a></p><br>
