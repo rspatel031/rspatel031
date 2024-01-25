@@ -27,7 +27,7 @@ Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahu
 <a href="https://www.instagram.com/libra.rahul.31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="libra.rahul.31" height="30" width="40" /></a>
 <a href="https://medium.com/@rspatel031" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@rspatel031" height="30" width="40" /></a></p>
 
-</div><h2 align="left">Blogs Posts</h2>
+</div><h2 align="left">Latest Blogs Posts</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
