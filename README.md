@@ -4,7 +4,7 @@
 <h1 align="center">
 Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>
 </h1>
-<h3 align="center">An enthusiastic developer skilled in Java from India 🇮🇳</h3>
+<h3 align="center">An enthusiastic DevOps Engineer from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rspatel031&abbreviated=true&style=for-the-badge&color=orange" alt="rspatel031" /> </p>
 
 <h2> About Me </h2>
